@@ -1,0 +1,152 @@
+request body = <TemplateSMS>
+                    <to>18371458939</to> 
+                    <appId>8a216da85d7dbf78015d8987138e051b</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8aaf07085d7cf73f015d8985a614059a/SMS/TemplateSMS?sig=7F7C7EF635BCB74F6057769C6DD9D0A1
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>111188</statusCode>
+    <statusMsg>【账号】主账户绑定的测试号码个数为零</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>18371458939</to> 
+                    <appId>8a216da85d7dbf78015d8987138e051b</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8aaf07085d7cf73f015d8985a614059a/SMS/TemplateSMS?sig=52A14CB29E14FB0549D46F65DEA226B4
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>111188</statusCode>
+    <statusMsg>【账号】主账户绑定的测试号码个数为零</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>18371458939</to> 
+                    <appId>8a216da85d7dbf78015d8987138e051b</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8aaf07085d7cf73f015d8985a614059a/SMS/TemplateSMS?sig=2E7EEB0DF4457A4F7E3C9311DBE5C25D
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>111188</statusCode>
+    <statusMsg>【账号】主账户绑定的测试号码个数为零</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>18371458939</to> 
+                    <appId>8a216da85d7dbf78015d8987138e051b</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8aaf07085d7cf73f015d8985a614059a/SMS/TemplateSMS?sig=E2211C9777B6958FB10212CF332A82A9
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>111188</statusCode>
+    <statusMsg>【账号】主账户绑定的测试号码个数为零</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>18371458939</to> 
+                    <appId>8a216da85d7dbf78015d8987138e051b</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8aaf07085d7cf73f015d8985a614059a/SMS/TemplateSMS?sig=71BD27DAFFEACB9D3D4E4DE624F32838
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>111188</statusCode>
+    <statusMsg>【账号】主账户绑定的测试号码个数为零</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>18371458939</to> 
+                    <appId>8a216da85d7dbf78015d8987138e051b</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8aaf07085d7cf73f015d8985a614059a/SMS/TemplateSMS?sig=7F3B2F010E6F625664113A788FD53B7D
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>111188</statusCode>
+    <statusMsg>【账号】主账户绑定的测试号码个数为零</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>18371458939</to> 
+                    <appId>8a216da85d7dbf78015d8987138e051b</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8aaf07085d7cf73f015d8985a614059a/SMS/TemplateSMS?sig=A0420564232E855C15C8D6F0CF961C21
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>000000</statusCode>
+    <TemplateSMS>
+        <smsMessageSid>62d9e57735f246799cceee813f98b057</smsMessageSid>
+        <dateCreated>20170729102335</dateCreated>
+    </TemplateSMS>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>18371458939</to> 
+                    <appId>8a216da85d7dbf78015d8987138e051b</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8aaf07085d7cf73f015d8985a614059a/SMS/TemplateSMS?sig=4C0A9E68D0611D006EB5B1A5BED97BCE
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>111188</statusCode>
+    <statusMsg>【账号】主账户绑定的测试号码个数为零</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>18371458939</to> 
+                    <appId>8a216da85d7dbf78015d8987138e051b</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8aaf07085d7cf73f015d8985a614059a/SMS/TemplateSMS?sig=C8340D47E4031F5EC91EF5C3B8DD0A7C
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>000000</statusCode>
+    <TemplateSMS>
+        <smsMessageSid>d4365a783d744deea8a22d3e31ddddca</smsMessageSid>
+        <dateCreated>20170729104207</dateCreated>
+    </TemplateSMS>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>18371458939</to> 
+                    <appId>8a216da85d7dbf78015d8987138e051b</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8aaf07085d7cf73f015d8985a614059a/SMS/TemplateSMS?sig=C02CF8B588BB04F33F76C4CC234ECB4E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>111188</statusCode>
+    <statusMsg>【账号】主账户绑定的测试号码个数为零</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>18371458939</to> 
+                    <appId>8a216da85d7dbf78015d8987138e051b</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8aaf07085d7cf73f015d8985a614059a/SMS/TemplateSMS?sig=29191B13550E9D21B929BA28B4666FE3
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>000000</statusCode>
+    <TemplateSMS>
+        <smsMessageSid>ed0eb1160eeb4beb916fcd0e749f6d7f</smsMessageSid>
+        <dateCreated>20170729104632</dateCreated>
+    </TemplateSMS>
+</Response>
+
